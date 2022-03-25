@@ -61,16 +61,27 @@ a {
 /* hero */
 
 .container1 {
-    width: 1300px;
+    max-width: 1300px;
+    text-align: center;
     
 }
 
 .hero {
     background-color: #b4d0e7;
-    height: 700px;
     width: 100%;
 }
 
 .title1 {
-    font-size: 50px;
+    font-size: 70px;
+    padding: 200px;
+}
+
+.hero-p {
+    float: left;
+    width: 50%;
+}
+
+.hero-img {
+    float: left;
+    width: 50%;
 }
