@@ -16,32 +16,36 @@ body {
 }
 
 /* header */
+header {
+    position: fixed;
+}
+
 .header-col1 {
     float: left;
-    width: 50%;
-    
+    width: 50%;    
+    position: relative;
    
 }
 .header-col2 {
     float: left;
     width: 50%;
-    
+    position:relative;
+    left: 50%;
     
 }
 .dropbox {
     font-size: 30px;
-    margin-right: 40px;
+    margin-right: 30px;
 }
 li {
     list-style-type: none;
     display: inline-block;
-    vertical-align: middle;
     padding-top: 20px;
 }
 a {
     text-decoration: none;
     color: black;
-    padding-right: 50px;
+    padding-right: 15px;
 }
 
 .button1 {
