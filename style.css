@@ -63,7 +63,6 @@ a {
 .container1 {
     max-width: 1300px;
     text-align: center;
-    
 }
 
 .hero {
@@ -84,4 +83,12 @@ a {
 .hero-img {
     float: left;
     width: 50%;
+ 
 }
+
+.imghero {
+    height: 90%;
+    width: 90%;
+}
+
+
