@@ -129,6 +129,8 @@ a {
 .Professional {
     float: left;
     width: 33%;
+    
+
 }
 .Standard {
     float: left;
@@ -139,9 +141,10 @@ a {
 .Advanced {
     float: left;
     width: 33%;
+    
 }
 
-li {
+.lifloat{
     display: block;
 }
 
@@ -151,6 +154,7 @@ li {
     border: none;
     padding: 10px;
     cursor: pointer;
+
 }
 
 
