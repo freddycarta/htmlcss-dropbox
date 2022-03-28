@@ -123,24 +123,27 @@ a {
 .radio {
     text-align: left;
     margin-top: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .Professional {
     float: left;
     width: 33%;
+    border: ridge;
     
 
 }
 .Standard {
     float: left;
     width: 33%;
+    border: ridge;
     
     
 }
 .Advanced {
     float: left;
     width: 33%;
+    border: ridge;
     
 }
 
