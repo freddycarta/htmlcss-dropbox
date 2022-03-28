@@ -54,6 +54,7 @@ a {
     border: none;
     padding: 10px;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 /* header */
@@ -101,10 +102,55 @@ a {
     color: white;
     border: none;
     padding: 10px;
-   margin-top: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+/* hero */
+
+/* section1 */
+.section1 {
+    padding-top: 100px;
+}
+
+.containersmall{
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
 
 }
 
+.radio {
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
 
+.Professional {
+    float: left;
+    width: 33%;
+}
+.Standard {
+    float: left;
+    width: 33%;
+    
+    
+}
+.Advanced {
+    float: left;
+    width: 33%;
+}
+
+li {
+    display: block;
+}
+
+.button3 {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
 
 
