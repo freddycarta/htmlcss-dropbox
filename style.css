@@ -111,10 +111,10 @@ a {
 /* section1 */
 .section1 {
     padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 .containersmall{
-    text-align: center;
     margin: 0 auto;
     width: 70%;
 
@@ -130,6 +130,7 @@ a {
     float: left;
     width: 33%;
     border: ridge;
+    text-align: center;
     
 
 }
@@ -137,6 +138,7 @@ a {
     float: left;
     width: 33%;
     border: ridge;
+    text-align: center;
     
     
 }
@@ -144,6 +146,7 @@ a {
     float: left;
     width: 33%;
     border: ridge;
+    text-align: center;
     
 }
 
@@ -158,6 +161,41 @@ a {
     padding: 10px;
     cursor: pointer;
 
+}
+
+.link1 {
+    color: blue;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+.fa-check {
+    color: blue;
+}
+
+/* section1 */
+
+/* section2 */
+
+.team {
+    text-align: center;
+}
+
+.section2 {
+
+    border: ridge;
+    width: 99%;
+    position: absolute;
+}
+
+.button4 {
+    position: relative;
+    left: 5px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
 }
 
 
