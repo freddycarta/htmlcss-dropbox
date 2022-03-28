@@ -227,6 +227,17 @@ a {
     background-color: white;
     padding: 10px;
 }
+/* section4 */
 
-.section3
-
+.firstfloat4 {
+    float: left;
+    width: 33%;
+}
+.secondfloat4 {
+    float: left;
+    width: 33%;
+}
+.thirdfloat4 {
+    float: left;
+    width: 33%;
+}
