@@ -173,7 +173,6 @@ a {
     color: blue;
 }
 
-/* section1 */
 
 /* section2 */
 
@@ -189,6 +188,7 @@ a {
     width: 99%;
     position: relative;
     padding: 30px;
+    margin-bottom:  100px;
  
 }
 
@@ -203,4 +203,14 @@ a {
     cursor: pointer;
 }
 
+/* sectiion3 */
+
+.section3 {
+    position: relative;
+}
+
+.partner-img {
+   width: 200px;
+   height: auto;
+}
 
