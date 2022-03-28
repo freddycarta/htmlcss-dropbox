@@ -5,6 +5,8 @@
 
 }
 
+img {max-width:100%}
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -210,7 +212,21 @@ a {
 }
 
 .partner-img {
-   width: 200px;
+   width: 400px;
    height: auto;
 }
+
+.section3-p {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+
+}
+
+.button5 {
+    background-color: white;
+    padding: 10px;
+}
+
+.section3
 
