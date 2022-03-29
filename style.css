@@ -248,6 +248,10 @@ a {
 
 /* section5 */
 
+.section5 {
+    padding-top: 50px;
+}
+
 .square1 {
     float: left;
     width: 25%;
@@ -258,5 +262,11 @@ a {
 }
 .square3 {
     float: left;
-    width: 25%;
+    width: 50%;
+}
+
+.squarelittle {
+    float: left;
+    width: 50%;
+    
 }
