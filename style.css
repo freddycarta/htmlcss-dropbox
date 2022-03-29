@@ -229,6 +229,10 @@ a {
 }
 /* section4 */
 
+.section4 {
+    margin-bottom: 50px;
+}
+
 .firstfloat4 {
     float: left;
     width: 33%;
@@ -240,4 +244,19 @@ a {
 .thirdfloat4 {
     float: left;
     width: 33%;
+}
+
+/* section5 */
+
+.square1 {
+    float: left;
+    width: 25%;
+}
+.square2 {
+    float: left;
+    width: 49%;
+}
+.square3 {
+    float: left;
+    width: 25%;
 }
