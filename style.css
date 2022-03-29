@@ -250,26 +250,50 @@ a {
 
 .section5 {
     padding-top: 50px;
-    width: 100vw;
+    width: 99vw;
+    
 }
 
 .leftsquare {
     float: left;
     width: 30vw;
+    position: relative;
 }
 .squarecenter {
     float: left;
-    width: 69vw;
+    width: 39vw;
+    padding: 50px;
+    background-color: lightgrey;
+}
+.designit {
+    font-size: 35px;
 }
 .rightsquare {
     float: left;
     width: 30vw;
+    position: relative;
 }
 .small1 {
     float: left;
     width: 15vw;
     height: 15vw;
     background-color: lightgreen;
+    padding: 20px;
+}
+
+.small1 img {
+    max-width: 70%;
+
+}
+.small2 img {
+    max-width: 70%;
+
+}
+.small3 img {
+    max-width: 70%;
+}
+.small4 img {
+    max-width: 70%;
 }
 .small2 {
     float: left;
