@@ -252,21 +252,47 @@ a {
     padding-top: 50px;
 }
 
-.square1 {
+.leftsquare {
     float: left;
     width: 25%;
 }
-.square2 {
+.squarecenter {
     float: left;
     width: 49%;
 }
-.square3 {
+.rightsquare {
     float: left;
-    width: 50%;
+    width: 25%;
+}
+.square1 {
+    float: left;
+
+}
+.square2 {
+    float: left;
+}
+.small1 {
+    float: left;
+    width: 15vw;
+    height: 15vw;
+    background-color: lightgreen;
+}
+.small2 {
+    float: left;
+    width: 15vw;
+    height: 15vw;
+    background-color: brown;
 }
 
-.squarelittle {
+.small3 {
     float: left;
-    width: 50%;
-    
+    width: 15vw;
+    height: 15vw;
+    background-color: lightskyblue;
+}
+.small4 {
+    float: left;
+    width: 15vw;
+    height: 15vw;
+    background-color: red;
 }
