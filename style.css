@@ -250,26 +250,20 @@ a {
 
 .section5 {
     padding-top: 50px;
+    width: 100vw;
 }
 
 .leftsquare {
     float: left;
-    width: 25%;
+    width: 30vw;
 }
 .squarecenter {
     float: left;
-    width: 49%;
+    width: 69vw;
 }
 .rightsquare {
     float: left;
-    width: 25%;
-}
-.square1 {
-    float: left;
-
-}
-.square2 {
-    float: left;
+    width: 30vw;
 }
 .small1 {
     float: left;
