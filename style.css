@@ -333,10 +333,12 @@ a {
     background-color: lightblue;
     padding: 5vw;
     text-align: center;
+
 }
 .endsection5 {
     display: inline-block;
     margin-right: 20vw;
+    
 }
 .button6 {
     display: inline-block;
@@ -345,3 +347,36 @@ a {
     cursor: pointer;
     
 }
+
+footer {
+    background-color: black;
+    height: 30vw;
+    width: 100vw;
+    color: white;
+    padding-top: 5vw;
+    padding-left: 10vw;
+}
+.ciao { 
+    float: left;
+    width: 18vw;
+}
+.come { 
+    float: left;
+    width: 18vw;
+
+}
+.va { 
+    float: left;
+    width: 18vw;
+
+    
+}
+.odio { 
+    float: left;
+    width: 18vw; 
+}
+.dropbox { 
+    float: left;
+    width: 18vw;
+}  
+
